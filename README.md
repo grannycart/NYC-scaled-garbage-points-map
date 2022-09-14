@@ -14,7 +14,7 @@ This was fairly simple to do in QGIS, so I volunteered to create the small data 
 
 ## License:
 * MIT
-	* See: [LICENSE](./LICENSE)
+* See: [LICENSE](./LICENSE)
 
 
 
