@@ -1,0 +1,29 @@
+Filename,Facility Name,Address,Latitude,Longitude,Type,Contact
+NY_LF_SenecaMeadow,Seneca Meadow Landfill ,1786 Salcman Rd,42.91402,-76.84496,LF,
+NY_RE_NVInternational,N&V International,"560 Rt 203, Suite 210 Orangeburg, NY 10962",41.05844,-73.94919,RE Paper and CBDB,
+NY_WTI_CovantaNiagra,Covanta Niagra,"100 Energy Blvd. at 56th Street Niagara Falls, NY  14304",43.08137,-79.00021,WTI,https://www.covanta.com/Our-Facilities/Covanta-Niagara
+NY_LF_WMHighAcres,Waste Management High Acres ,"425 Perinton Pkwy Fairport, NY 14450",43.08443,-77.38096,LF,http://highacreslandfill.wm.com/index.jsp
+NY_RE_EmpireStateCDBD,Empire State Cardboard,"3 Railroad Pl, Maspeth, NY 11378",40.72407,-73.91655,RE,http://www.empirestaterecycling.com/
+NY_RE_LJSScrapMetalOceanside, LJS Scrap Metal Oceanside,"3425 Hampton Rd, Oceanside, NY 11572",40.62643,-73.65365,RE,http://recycling-centers.cmac.ws/l-j-s-scrap-metal-inc/5811/
+NY_RE_BridgewaterRecycling,"Bridgewater Recycling Service (PET, HDPE, LDPE)","560 Route 303 #560 Orangeburg, NY",41.05844,-73.94919,RE,
+NY_IW_Veolia,"Veolia ES Technical Solutions, LLC","125 Factory Lane Middlesex, NY 08846",40.56087,-74.52124,IW SW,https://www.veolianorthamerica.com/en
+NY_CD_110SandGravel,110 Sand and Gravel Melville NY,"136 Spegnoli Road, Mellville NY",40.76228,-73.42895,CD,https://www.manta.com/c/mm2y953/110-sand-company
+NY_LF_GloucesterCounty,Gloucester County Improvement,"503 Monroeville Rd, Swedesboro, NJ 08085",39.71186,-75.28144,MSW,http://www.gcianj.com/solid-waste-complex/
+NY_LF_Hyland,Hyland Facility ,"6653 Herdman Rd Angelica, NY 14709",42.28758,-78.00598,MSW,http://www.mmce.net/specialties/solid-waste-engineering/hyland-facility-landfill-liner-construction
+NY_RE_IW_LiottaBros,Liotta Brothers,"Daly Blvd & Hampton Rd, Oceanside, NY 11572",40.62022,-73.6528,RE,http://liottaandsons.com/liotta_recycling.html
+NY_WTI_Wheelabrator,Wheelabrator Westchester (Peekskill),"1-, 3 John Walsh Blvd, Peekskill, NY 10566",41.27702,-73.94152,WTI,https://www.wtienergy.com/plant-locations/energy-from-waste/wheelabrator-westchester
+NY_LF_ChemungLandfill,Chemung Landfill (Chemung NY),"1690 Lake St, Elmira, NY 14901",42.11954,-76.80886,LF,https://wastebits.com/locator/location/chemung-county-swdd-landfill
+NY_LF_HakesLandfill,"Hakes Landfill (Painted Post, NY)","4376 Manning Ridge Rd, Painted Post, NY 14870",42.21122,-77.11382,LF,https://wastebits.com/locator/location/hakes-construction-landfill
+NY_LF_SteubenBath,"Steuben County Bath Landfill (Bath, NY)","5632 Turnpike Rd, Bath, NY 14810",42.32415,-77.38823,LF,https://www.steubencony.org/pages.asp?PID=429
+NY_CD_IW_IntercountyTransport,"Intercounty Transport (Oceanside, NY)","3425 Hampton Rd Oceanside, NY 11572 ",40.62643,-73.65365,MSW Carting RE ?,
+NY_RE_WestHamptonSpeonk,West Hampton Speonk (Suffolk County),"66 Old Country Rd, Westhampton, NY 11977",40.82716,-72.67564,LF MSW,https://www.southamptontownny.gov/216/Waste-Management
+NY_WTI_CovantaRefuel,"Covanta Refuel (Hempstead, NY)","600 Merchants Concourse, Westbury, NY 11590",40.73818,-73.5907,LF MSW,https://www.covanta.com/Our-Facilities/Covanta-Hempstead
+NY_TX_OH_EnvironmentalTransload,"Environmental Transload (Bronx, NY)","100 Oak Point Ave, Bronx, NY 10474",40.8087,-73.89818,TX,http://tunnelhillpartners.com/affiliate-partner/environmental-transload-services/
+NY_RE_EmpireStateRecycling,Empire State Recycling,"3 Railroad Pl, Maspeth, NY 11378",40.72407,-73.91655,RE,http://www.empirestaterecycling.com/
+NY_Compost_RE_McEnroeFarms,McEnroe Farms,194 Coleman Station Rd,41.90089,-73.52241,Compost RE,http://www.empirestaterecycling.com/
+NY_RE_IntercountyLJS,Intercounty LJS Scrap,"3425 Hampton Road Oceanside, NY 11572",40.62643,-73.65365,RE,
+NY_WTI_CovantaHempstead,Covanta Energy Hempstead (Garden City),"600 Merchants Concourse, Westbury, NY 11590",40.73818,-73.5907,WTI,https://www.covanta.com/Our-Facilities/Covanta-Hempstead
+NY_TX_CD_CoastalDistributionFarmingdale,Coastal Distribution,"1633 New Highway, Farmingdale, NY 11735",40.7447,-73.41381,TX RE MSW,http://tunnelhillpartners.com/affiliateservices/coastal-distribution-farmingdale/
+NY_RE_OneWOrldRecyclingLindenhurst,One World Recycling LLC,"685 N Queens Avenue Lindenhurst, NY 11757",40.70517,-73.36772,RE,http://tunnelhillpartners.com/affiliate-partner/one-world-recycling/
+NY_LF_CD_DunnCDLandfill,Dunn C&D Landfill,"209 Partition Street, Rensselser, NY 12144",42.64411,-73.731,LF,https://www.wasteconnections.com/sa-dunn-landfill
+NY_LF_CD_HakesLandfill,Hakes D&D Landfill,4376 Manning Rideg Rd Painted Post NY 14870,42.21122,-77.11382,LF,https://www.casella.com/locations/hakes-landfill

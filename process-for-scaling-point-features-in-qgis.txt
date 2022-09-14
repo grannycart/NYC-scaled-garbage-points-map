@@ -1,0 +1,67 @@
+process-for-scaling-point-features-in-qgis.txt
+2017-01-11 Mark Torrey
+------------------------------------------------------------------------------
+
+1.
+First download points of Landfills/incinerators with lat/long
+coordinates as a .csv file. You'll want to have all the facilities we
+want to map in a single sheet.
+
+2.
+Open qgis. Do add layer -> add deliminited text layer and select your
+.csv file. It will probably know the geometry definition is point
+coordinate and the x field in long and the y field is lat. Hit. ok, and
+select WGS 84 as the CRS (since you are only using lat/long data).
+
+For this project, just leave everything unprojected in WGS 84 since the
+final output is going to probably be a spreadsheet with lat/long points
+that can be used in a gps instead of an actual map.
+
+3.
+Add borough boundaries, parks (fresh kills parks layer if you like) and
+hydrology for reference. Might need streets or some other reference
+points to do the final version of this.
+
+4.
+Add the Vector Transformation plugin if you haven't already. Use it by
+going Vector -> Vector Transformation -> Transform. Select the points
+layer with the garbage sites and Scale as the transformation. Put in an
+equal X Scale and Y scale factor - probably something like .01
+(This plugin can do rotate too if you need it.)
+
+5.
+Zoom to your new scaled-down layer. Then zoom out until you can see
+your NYC map layers. Select your scaled-down layer points, and hit the
+edit pencil to put you in edit mode. Select all the points in the layer
+by doing View -> Select -> Select all features. Hit the Move features
+button and drag the selected points over NYC. Zoom in on NYC and place
+them over FKP.
+
+6.
+You'll probably have to scale that layer down and drag it over again
+before you get the right size.
+
+7.
+Once you have your points where you want them you need the new
+Lat/longs of the points so you can put them in a GPS. Edit the
+scaled-down-and-placed points file. First delete the original Latitude
+and Longitude columns by opening the attribute table and hitting the
+Delete field button. (Those lat/longs applied only to the original
+points, not your new scaled-down ones.) Now you need to add new columns
+with lat/long. Do that by doing Vector -> Geometry tools -> Export/Add
+Geometry columns. (Make sure you don't have any features selected or it
+will process only the selected features.) Choose the Input Layer, and
+hit the ... button to save it to a file. Add the .shp file result back
+to your map (if it doesn't automatically.) If you look at the attribute
+table you will have new X and Y coord columns which are lat/long.
+
+8.
+Save it as a .csv file by right clicking the layer and selecting save
+as. Select csv.
+
+
+
+
+
+
+

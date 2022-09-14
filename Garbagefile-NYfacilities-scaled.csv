@@ -1,0 +1,29 @@
+Filename,Facility N,Address,Type,Contact,xcoord,ycoord
+NY_LF_SenecaMeadow,Seneca Meadow Landfill,1786 Salcman Rd,LF,,-74.187238592765581,40.583061677840440
+NY_RE_NVInternational,N&V International,"560 Rt 203, Suite 210 Orangeburg, NY 10962",RE Paper and CBDB,,-74.184342822765586,40.581206097840443
+NY_WTI_CovantaNiagra,Covanta Niagra,"100 Energy Blvd. at 56th Street Niagara Falls, NY  14304",WTI,https://www.covanta.com/Our-Facilities/Covanta-Niagara,-74.189393842765597,40.583229027840446
+NY_LF_WMHighAcres,Waste Management High Acres,"425 Perinton Pkwy Fairport, NY 14450",LF,http://highacreslandfill.wm.com/index.jsp,-74.187774592765592,40.583232087840443
+NY_RE_EmpireStateCDBD,Empire State Cardboard,"3 Railroad Pl, Maspeth, NY 11378",RE,http://www.empirestaterecycling.com/,-74.184310182765586,40.580871727840446
+NY_RE_LJSScrapMetalOceanside,LJS Scrap Metal Oceanside,"3425 Hampton Rd, Oceanside, NY 11572",RE,http://recycling-centers.cmac.ws/l-j-s-scrap-metal-inc/5811/,-74.184047282765576,40.580774087840446
+NY_RE_BridgewaterRecycling,"Bridgewater Recycling Service (PET, HDPE, LDPE)","560 Route 303 #560 Orangeburg, NY",RE,,-74.184342822765586,40.581206097840443
+NY_IW_Veolia,"Veolia ES Technical Solutions, LLC","125 Factory Lane Middlesex, NY 08846",IW SW,https://www.veolianorthamerica.com/en,-74.184914872765589,40.580708527840450
+NY_CD_110SandGravel,110 Sand and Gravel Melville NY,"136 Spegnoli Road, Mellville NY",CD,https://www.manta.com/c/mm2y953/110-sand-company,-74.183822582765586,40.580909937840445
+NY_LF_GloucesterCounty,Gloucester County Improvement,"503 Monroeville Rd, Swedesboro, NJ 08085",MSW,http://www.gcianj.com/solid-waste-complex/,-74.185675072765591,40.579859517840440
+NY_LF_Hyland,Hyland Facility,"6653 Herdman Rd Angelica, NY 14709",MSW,http://www.mmce.net/specialties/solid-waste-engineering/hyland-facility-landfill-liner-construction,-74.188399612765593,40.582435237840450
+NY_RE_IW_LiottaBros,Liotta Brothers,"Daly Blvd & Hampton Rd, Oceanside, NY 11572",RE,http://liottaandsons.com/liotta_recycling.html,-74.184046432765584,40.580767877840444
+NY_WTI_Wheelabrator,Wheelabrator Westchester (Peekskill),"1-, 3 John Walsh Blvd, Peekskill, NY 10566",WTI,https://www.wtienergy.com/plant-locations/energy-from-waste/wheelabrator-westchester,-74.184335152765584,40.581424677840445
+NY_LF_ChemungLandfill,Chemung Landfill (Chemung NY),"1690 Lake St, Elmira, NY 14901",LF,https://wastebits.com/locator/location/chemung-county-swdd-landfill,-74.187202492765593,40.582267197840444
+NY_LF_HakesLandfill,"Hakes Landfill (Painted Post, NY)","4376 Manning Ridge Rd, Painted Post, NY 14870",LF,https://wastebits.com/locator/location/hakes-construction-landfill,-74.187507452765587,40.582358877840441
+NY_LF_SteubenBath,"Steuben County Bath Landfill (Bath, NY)","5632 Turnpike Rd, Bath, NY 14810",LF,https://www.steubencony.org/pages.asp?PID=429,-74.187781862765590,40.582471807840442
+NY_CD_IW_IntercountyTransport,"Intercounty Transport (Oceanside, NY)","3425 Hampton Rd Oceanside, NY 11572",MSW Carting RE ?,,-74.184047282765576,40.580774087840446
+NY_RE_WestHamptonSpeonk,West Hampton Speonk (Suffolk County),"66 Old Country Rd, Westhampton, NY 11977",LF MSW,https://www.southamptontownny.gov/216/Waste-Management,-74.183069272765593,40.580974817840449
+NY_WTI_CovantaRefuel,"Covanta Refuel (Hempstead, NY)","600 Merchants Concourse, Westbury, NY 11590",LF MSW,https://www.covanta.com/Our-Facilities/Covanta-Hempstead,-74.183984332765576,40.580885837840448
+NY_TX_OH_EnvironmentalTransload,"Environmental Transload (Bronx, NY)","100 Oak Point Ave, Bronx, NY 10474",TX,http://tunnelhillpartners.com/affiliate-partner/environmental-transload-services/,-74.184291812765579,40.580956357840442
+NY_RE_EmpireStateRecycling,Empire State Recycling,"3 Railroad Pl, Maspeth, NY 11378",RE,http://www.empirestaterecycling.com/,-74.184310182765586,40.580871727840446
+NY_Compost_RE_McEnroeFarms,McEnroe Farms,194 Coleman Station Rd,Compost RE,http://www.empirestaterecycling.com/,-74.183916042765588,40.582048547840444
+NY_RE_IntercountyLJS,Intercounty LJS Scrap,"3425 Hampton Road Oceanside, NY 11572",RE,,-74.184047282765576,40.580774087840446
+NY_WTI_CovantaHempstead,Covanta Energy Hempstead (Garden City),"600 Merchants Concourse, Westbury, NY 11590",WTI,https://www.covanta.com/Our-Facilities/Covanta-Hempstead,-74.183984332765576,40.580885837840448
+NY_TX_CD_CoastalDistributionFarmingdale,Coastal Distribution,"1633 New Highway, Farmingdale, NY 11735",TX RE MSW,http://tunnelhillpartners.com/affiliateservices/coastal-distribution-farmingdale/,-74.183807442765584,40.580892357840447
+NY_RE_OneWOrldRecyclingLindenhurst,One World Recycling LLC,"685 N Queens Avenue Lindenhurst, NY 11757",RE,http://tunnelhillpartners.com/affiliate-partner/one-world-recycling/,-74.183761352765586,40.580852827840445
+NY_LF_CD_DunnCDLandfill,Dunn C&D Landfill,"209 Partition Street, Rensselser, NY 12144",LF,https://www.wasteconnections.com/sa-dunn-landfill,-74.184124632765588,40.582791767840440
+NY_LF_CD_HakesLandfill,Hakes D&D Landfill,4376 Manning Rideg Rd Painted Post NY 14870,LF,https://www.casella.com/locations/hakes-landfill,-74.187507452765587,40.582358877840441
